@@ -39,7 +39,7 @@ class UpdateService : Service() {
                                 mini = temp
                                 notifyEth(
                                     mini.toString(),
-                                    1001,
+                                    1000,
                                     NotificationManager.IMPORTANCE_HIGH
                                 )
                             }
